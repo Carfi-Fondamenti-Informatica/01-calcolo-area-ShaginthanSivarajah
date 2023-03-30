@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     float a=0, b=0, c=0;
     float Triangolo=0, Quadrato=0, Rettangolo=0, Trapezio=0;
-    cout << "Inserisci tre numeri reali"\n";
+    cout << "Inserisci tre numeri reali\n";
     cin >> a >> b >> c;
     Triangolo= (a+b)/2;
     Quadrato= a*a;
